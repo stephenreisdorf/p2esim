@@ -1,0 +1,4 @@
+wheel
+plotly
+numpy
+streamlit
